@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,20:0a4a3a,50:0a7c6e,75:0d9488,100:38b2ac&height=220&section=header&text=Digital%20Literacy%20Portfolio&fontSize=44&fontColor=e0fff8&fontAlignY=40&animation=fadeIn&desc=CSE0001%20%E2%80%94%20VIT%20University%20%7C%2025BCE10191&descAlignY=62&descSize=17&descColor=a7f3d0" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,18:072a3a,42:085c52,68:0d9488,100:2dd4bf&height=260&section=header&text=Digital%20Literacy%20Portfolio&fontSize=50&fontColor=f0fdfa&fontAlignY=43&fontAlign=50&animation=twinkling&desc=Yajat%20Kataria%20%E2%80%A2%20CSE0001%20%E2%80%94%20VIT%20Bhopal%20%7C%2025BCE10191&descAlignY=63&descSize=19&descColor=99f6e4&descAlign=50" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=34D399&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Yajat+Kataria+%7C+25BCE10191;🎓+CSE+Student+%40+VIT+University;🛡️+Cybercrime+Awareness+Advocate;🌐+Student+Digital+Ambassador;📱+Exploring+Digital+Literacy+%26+Beyond" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=680&lines=👋+Hey%2C+I'm+Yajat+Kataria+%7C+25BCE10191;🎓+CSE+Student+%40+VIT+Bhopal;🛡️+Cybercrime+Awareness+Advocate;🌐+Student+Digital+Ambassador;📱+Exploring+Digital+Literacy+%26+Beyond" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Course-CSE0001_Digital_Literacy-0d9488?style=for-the-badge&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/University-VIT_University-0077b6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/University-VIT_Bhopal-0077b6?style=for-the-badge&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Year-2024--25-34d399?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Year-2025--26-2dd4bf?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -145,17 +145,7 @@ Investigated a real-world online fraud case and produced:
 | <a href="https://www.linkedin.com/in/yajat-kataria-56b660241/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> | [Yajat Kataria](https://www.linkedin.com/in/yajat-kataria-56b660241/) | Professional networking & career |
 | <a href="https://www.kaggle.com/yajatkataria"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a> | [yajatkataria](https://www.kaggle.com/yajatkataria) | Data science & ML competitions |
 | <a href="https://www.hackerrank.com/profile/yajatkataria08"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a> | [yajatkataria08](https://www.hackerrank.com/profile/yajatkataria08) | Coding challenges & certifications |
-| <a href="mailto:yajat.kataria2025@vitstudent.ac.in"><img src="https://img.shields.io/badge/VIT_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> | VIT Student Mail | Academic correspondence |
-
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+| <a href="mailto:yajat.25bce10191@vitbhopal.ac.in"><img src="https://img.shields.io/badge/VIT_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> | yajat.25bce10191@vitbhopal.ac.in | Academic correspondence |
 
 </div>
 
