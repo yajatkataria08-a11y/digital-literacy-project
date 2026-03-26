@@ -15,4 +15,4 @@ This repository contains my work as a Student Digital Ambassador. It documents m
 
 ## Quick Links
 - [Digital Literacy Quiz (Google Form)]([INSERT_YOUR_LINK_HERE](https://docs.google.com/forms/d/e/1FAIpQLSesGfQvlGWQ6G9bjA9cMZNm2wX1_yC5bV79TUeSTyz3j-Ee0A/viewform?usp=publish-editor))
-- [Project Report](./report/Project_Report.pdf)# digital-literacy-project
+- [Project Report](./report/CaseStudy_25BCE10191_YajatKataria (1).pdf)# digital-literacy-project
