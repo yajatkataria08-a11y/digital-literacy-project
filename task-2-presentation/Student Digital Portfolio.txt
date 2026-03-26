@@ -1,0 +1,10 @@
+To establish my professional digital presence, I set up and optimized profiles on LinkedIn, GitHub, and Kaggle.
+I chose LinkedIn as my primary professional networking tool to connect with industry experts and track internship 
+opportunities. GitHub serves as my technical portfolio, where I use version control to host and share my coding projects 
+with the global developer community. Lastly, I selected Kaggle to practice data science and participate in machine learning
+competitions, which are essential for my growth as a B.Tech student.Over the next four years, I plan to use these 
+platforms as a living record of my academic journey. I will use GitHub to showcase my lab assignments and personal 
+software projects, ensuring my code is clean and well-documented. On LinkedIn, I will share my certifications and academic
+milestones to build a credible brand before graduation. Kaggle will be my space for applying classroom theory to 
+real-world datasets. By maintaining these profiles early on, I am building a competitive edge for future placements
+and ensuring I remain an active participant in the digital professional landscape.
