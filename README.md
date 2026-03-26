@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=680&lines=👋+Hey%2C+I'm+Yajat+Kataria+%7C+25BCE10191;🎓+CSE+Student+%40+VIT+Bhopal;🛡️+Cybercrime+Awareness+Advocate;🌐+Student+Digital+Ambassador;📱+Exploring+Digital+Literacy+%26+Beyond" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1400&color=2DD4BF&width=680&lines=👋+Hey%2C+I'm+Yajat+Kataria+%7C+25BCE10191;🎓+CSE+Student+%40+VIT+Bhopal;🛡️+Cybercrime+Awareness+Advocate;🌐+Student+Digital+Ambassador;📱+Exploring+Digital+Literacy+%26+Beyond" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,6 +13,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Year-2025--26-2dd4bf?style=for-the-badge&logoColor=white"/>
 </p>
+
 
 ---
 
