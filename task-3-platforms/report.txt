@@ -1,0 +1,13 @@
+To fulfill the requirements for this module, I engaged with two distinct digital platforms:
+HackerRank for technical skill development and Google Forms for cloud-based collaboration.
+  On HackerRank, I successfully completed the "Python If-Else" challenge, which focused on
+implementing conditional logic to solve a problem based on integer inputs. This practice 
+allowed me to refine my understanding of syntax and logical operators in a competitive 
+coding environment. Additionally, I built a "Digital Literacy Awareness Quiz" using Google 
+Forms to test my peers' knowledge of online safety and professional branding.These tools will
+be instrumental to my academic success over the next four years. HackerRank provides a structured
+path to master programming languages and prepare for technical interviews, while Google Workspace
+tools like Forms and Sheets enable efficient data collection and collaboration for group projects.
+Mastering these platforms early in my degree ensures that I can handle complex coding assignments
+and collaborate effectively with my batchmates. By integrating these tools into my workflow,
+I am developing the technical and organizational proficiency required for a modern engineering career.
